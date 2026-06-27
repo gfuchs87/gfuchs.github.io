@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>University of Texas at Austin</a>. gfuchs@utexas.edu
+subtitle: <a href='https://www.utexas.edu'>University of Texas at Austin</a>. gfuchs@utexas.edu
 
 profile:
   align: right
