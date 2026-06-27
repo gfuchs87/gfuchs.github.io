@@ -1,8 +1,8 @@
 ---
 layout: post
-title: a post with image galleries
-date: 2024-12-04 01:59:00
-description: this is what included image galleries could look like
+title: An adventure to Cerro Quemado
+date: 2026-06-27 01:59:00
+description: Last year, I had the chance to visit Cerro Quemado, in Guatemala. It was an extraordinary adventure.
 tags: formatting images
 categories: sample-posts
 thumbnail: assets/img/9.jpg
