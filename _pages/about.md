@@ -6,7 +6,7 @@ subtitle: <a href='https://www.utexas.edu'>University of Texas at Austin</a>. gf
 
 profile:
   align: left
-  image: IMG_9085.jpg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p></p>
