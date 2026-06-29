@@ -5,7 +5,7 @@ permalink: /
 subtitle: <a href='https://www.utexas.edu'>University of Texas at Austin</a>. gfuchs@utexas.edu
 
 profile:
-  align: left
+  align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
